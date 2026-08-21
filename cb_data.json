@@ -1,0 +1,37 @@
+{
+  "sample": false,
+  "asAt": "21/08/2026",
+  "office": 13,
+  "floor": 7,
+  "total": 20,
+  "minimum": 5,
+  "daysLogged": 2,
+  "avg7": 1.7,
+  "avg28": 1.7,
+  "rate": 2,
+  "nextCutoff": "23/08/2026",
+  "delivery": "26/08/2026",
+  "daysToDelivery": 5,
+  "projected": 10,
+  "projectedSkip": -4,
+  "flag": "Not enough data yet - LC decides",
+  "suggested": null,
+  "oldestBatch": "",
+  "oldestDays": null,
+  "activeBatches": 0,
+  "checkDays": 2,
+  "missingDays": 2,
+  "lastLog": "20/08/2026",
+  "lastCount": "20/08/2026",
+  "lastCountVar": -0.4,
+  "daily": [
+    {
+      "d": "17/08",
+      "kg": 1.6
+    },
+    {
+      "d": "19/08",
+      "kg": 1.8
+    }
+  ]
+}
