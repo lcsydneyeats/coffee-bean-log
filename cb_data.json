@@ -1,6 +1,6 @@
 {
   "sample": false,
-  "asAt": "21/08/2026",
+  "asAt": "22/08/2026",
   "office": 13,
   "floor": 7,
   "total": 20,
@@ -11,9 +11,9 @@
   "rate": 2,
   "nextCutoff": "23/08/2026",
   "delivery": "26/08/2026",
-  "daysToDelivery": 5,
-  "projected": 10,
-  "projectedSkip": -4,
+  "daysToDelivery": 4,
+  "projected": 12,
+  "projectedSkip": -2,
   "flag": "Not enough data yet - LC decides",
   "suggested": null,
   "oldestBatch": "",
@@ -25,13 +25,7 @@
   "lastCount": "20/08/2026",
   "lastCountVar": -0.4,
   "daily": [
-    {
-      "d": "17/08",
-      "kg": 1.6
-    },
-    {
-      "d": "19/08",
-      "kg": 1.8
-    }
+    { "d": "17/08", "kg": 1.6 },
+    { "d": "19/08", "kg": 1.8 }
   ]
 }
