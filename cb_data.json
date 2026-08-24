@@ -1,1 +1,49 @@
-{"sample": false, "asAt": "24/08/2026", "office": 13, "floor": 7, "total": 20, "minimum": 5, "daysLogged": 2, "avg7": 1.7, "avg28": 1.7, "rate": 2, "nextCutoff": "30/08/2026", "delivery": "02/09/2026", "daysToDelivery": 9, "projected": 2, "projectedSkip": -12, "flag": "Not enough data yet - LC decides", "suggested": null, "oldestBatch": "", "oldestDays": null, "activeBatches": 0, "checkDays": 2, "missingDays": 2, "lastLog": "20/08/2026", "lastCount": "20/08/2026", "lastCountVar": -0.4, "daily": [{"d": "17/08", "kg": 1.6}, {"d": "19/08", "kg": 1.8}], "batchList": [{"b": "B2026.08.12", "iso": "2026-08-12", "label": "12/08"}, {"b": "B2026.07.20", "iso": "2026-07-20", "label": "20/07"}]}
+{
+  "sample": false,
+  "asAt": "24/08/2026",
+  "office": 13,
+  "floor": 5.2,
+  "total": 18.2,
+  "minimum": 5,
+  "daysLogged": 2,
+  "avg7": 1.7,
+  "avg28": 1.7,
+  "rate": 2,
+  "nextCutoff": "30/08/2026",
+  "delivery": "02/09/2026",
+  "daysToDelivery": 9,
+  "projected": 0.2,
+  "projectedSkip": -13.8,
+  "flag": "Not enough data yet - LC decides",
+  "suggested": null,
+  "oldestBatch": "",
+  "oldestDays": null,
+  "activeBatches": 0,
+  "checkDays": 2,
+  "missingDays": 2,
+  "lastLog": "20/08/2026",
+  "lastCount": "24/08/2026",
+  "lastCountVar": -1.8,
+  "daily": [
+    {
+      "d": "17/08",
+      "kg": 1.6
+    },
+    {
+      "d": "19/08",
+      "kg": 1.8
+    }
+  ],
+  "batchList": [
+    {
+      "b": "B2026.08.12",
+      "iso": "2026-08-12",
+      "label": "12/08"
+    },
+    {
+      "b": "B2026.07.20",
+      "iso": "2026-07-20",
+      "label": "20/07"
+    }
+  ]
+}
