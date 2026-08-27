@@ -1,1 +1,63 @@
-{"sample":false,"asAt":"26/08/2026","office":7,"floor":8.1,"total":15.1,"minimum":5,"daysLogged":4,"avg7":1.67,"avg28":1.75,"rate":2,"nextCutoff":"30/08/2026","delivery":"02/09/2026","daysToDelivery":7,"projected":1.1,"projectedSkip":-12.9,"flag":"Not enough data yet - LC decides","suggested":null,"oldestBatch":"","oldestDays":null,"activeBatches":0,"checkDays":2,"missingDays":2,"lastLog":"26/08/2026","lastCount":"24/08/2026","lastCountVar":-1.8,"daily":[{"d":"17/08","kg":2},{"d":"19/08","kg":1.9},{"d":"25/08","kg":1.7},{"d":"26/08","kg":1.4}],"batchList":[{"b":"B2026.08.12","iso":"2026-08-12","label":"12/08"},{"b":"B2026.07.20","iso":"2026-07-20","label":"20/07"}],"lastOfficeCount":"24/08/2026","officeCountDays":2}
+{
+  "sample": false,
+  "asAt": "27/08/2026",
+  "office": 7,
+  "floor": 5.6,
+  "total": 12.6,
+  "minimum": 5,
+  "daysLogged": 5,
+  "avg7": 1.87,
+  "avg28": 1.9,
+  "rate": 2,
+  "nextCutoff": "30/08/2026",
+  "delivery": "02/09/2026",
+  "daysToDelivery": 6,
+  "projected": 0.6,
+  "projectedSkip": -13.4,
+  "flag": "Not enough data yet - LC decides",
+  "suggested": null,
+  "oldestBatch": "",
+  "oldestDays": null,
+  "activeBatches": 0,
+  "checkDays": 2,
+  "missingDays": 2,
+  "lastLog": "27/08/2026",
+  "lastCount": "24/08/2026",
+  "lastCountVar": -1.8,
+  "daily": [
+    {
+      "d": "17/08",
+      "kg": 2
+    },
+    {
+      "d": "19/08",
+      "kg": 1.9
+    },
+    {
+      "d": "25/08",
+      "kg": 1.7
+    },
+    {
+      "d": "26/08",
+      "kg": 2
+    },
+    {
+      "d": "27/08",
+      "kg": 1.9
+    }
+  ],
+  "batchList": [
+    {
+      "b": "B2026.08.12",
+      "iso": "2026-08-12",
+      "label": "12/08"
+    },
+    {
+      "b": "B2026.07.20",
+      "iso": "2026-07-20",
+      "label": "20/07"
+    }
+  ],
+  "lastOfficeCount": "24/08/2026",
+  "officeCountDays": 3
+}
