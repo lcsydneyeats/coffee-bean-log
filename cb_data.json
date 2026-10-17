@@ -1,23 +1,23 @@
 {
   "sample": false,
-  "asAt": "16/10/2026",
+  "asAt": "17/10/2026",
   "office": 24.0,
-  "floor": 5.2,
-  "total": 29.2,
+  "floor": 5.0,
+  "total": 29.0,
   "minimum": 5,
   "daysLogged": 31,
-  "avg7": 1.15,
-  "avg28": 1.73,
-  "rate": 1.73,
+  "avg7": 1.27,
+  "avg28": 1.82,
+  "rate": 1.82,
   "nextCutoff": "18/10/2026",
-  "delivery": "21/10/2026",
-  "daysToDelivery": 5,
-  "projected": 20.56,
-  "projectedSkip": 8.46,
-  "flag": "No order needed yet",
-  "suggested": 4,
+  "delivery": "20/10/2026",
+  "daysToDelivery": 1,
+  "projected": 27.18,
+  "projectedSkip": 19.92,
+  "flag": "No order needed this Sunday",
+  "suggested": null,
   "oldestBatch": "B2026.08.24",
-  "oldestDays": 53,
+  "oldestDays": 54,
   "activeBatches": 3,
   "checkDays": 17,
   "missingDays": 14,
@@ -47,7 +47,7 @@
     },
     {
       "d": "28/08",
-      "kg": 0.9
+      "kg": 1.5
     },
     {
       "d": "01/09",
@@ -79,7 +79,7 @@
     },
     {
       "d": "11/09",
-      "kg": 1.1
+      "kg": 2
     },
     {
       "d": "15/09",
@@ -95,7 +95,7 @@
     },
     {
       "d": "18/09",
-      "kg": 1.4
+      "kg": 1.8
     },
     {
       "d": "22/09",
@@ -107,7 +107,7 @@
     },
     {
       "d": "24/09",
-      "kg": 1.8
+      "kg": 1.9
     },
     {
       "d": "29/09",
@@ -123,7 +123,7 @@
     },
     {
       "d": "02/10",
-      "kg": 1.7
+      "kg": 2.2
     },
     {
       "d": "07/10",
@@ -143,7 +143,7 @@
     },
     {
       "d": "14/10",
-      "kg": 2
+      "kg": 2.2
     },
     {
       "d": "16/10",
@@ -173,5 +173,5 @@
     }
   ],
   "lastOfficeCount": "13/10/2026",
-  "officeCountDays": 3
+  "officeCountDays": 4
 }
