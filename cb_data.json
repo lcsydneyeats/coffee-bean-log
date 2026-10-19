@@ -1,6 +1,6 @@
 {
   "sample": false,
-  "asAt": "18/10/2026",
+  "asAt": "19/10/2026",
   "office": 24.0,
   "floor": 5.0,
   "total": 29.0,
@@ -9,15 +9,15 @@
   "avg7": 1.27,
   "avg28": 1.82,
   "rate": 1.82,
-  "nextCutoff": "18/10/2026",
-  "delivery": "20/10/2026",
-  "daysToDelivery": 1,
-  "projected": 27.18,
-  "projectedSkip": 19.92,
+  "nextCutoff": "25/10/2026",
+  "delivery": "27/10/2026",
+  "daysToDelivery": 5,
+  "projected": 19.92,
+  "projectedSkip": 12.66,
   "flag": "No order needed this Sunday",
   "suggested": null,
   "oldestBatch": "B2026.08.24",
-  "oldestDays": 55,
+  "oldestDays": 56,
   "activeBatches": 3,
   "checkDays": 17,
   "missingDays": 14,
@@ -173,5 +173,5 @@
     }
   ],
   "lastOfficeCount": "13/10/2026",
-  "officeCountDays": 5
+  "officeCountDays": 6
 }
