@@ -1,12 +1,12 @@
 {
   "sample": false,
-  "asAt": "23/10/2026",
+  "asAt": "24/10/2026",
   "office": 12.0,
   "floor": 7.3,
   "total": 19.3,
   "minimum": 5,
   "daysLogged": 35,
-  "avg7": 2.06,
+  "avg7": 2.35,
   "avg28": 1.95,
   "rate": 1.95,
   "nextCutoff": "25/10/2026",
@@ -17,7 +17,7 @@
   "flag": "No order needed this Sunday",
   "suggested": null,
   "oldestBatch": "B2026.09.21",
-  "oldestDays": 32,
+  "oldestDays": 33,
   "activeBatches": 2,
   "checkDays": 21,
   "missingDays": 14,
@@ -189,5 +189,5 @@
     }
   ],
   "lastOfficeCount": "21/10/2026",
-  "officeCountDays": 2
+  "officeCountDays": 3
 }
