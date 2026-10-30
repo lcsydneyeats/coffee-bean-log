@@ -1,28 +1,28 @@
 {
   "sample": false,
-  "asAt": "29/10/2026",
-  "office": 6.0,
-  "floor": 6.8,
-  "total": 12.8,
+  "asAt": "30/10/2026",
+  "office": 0.0,
+  "floor": 11.6,
+  "total": 11.6,
   "minimum": 5,
-  "daysLogged": 38,
-  "avg7": 2.14,
-  "avg28": 1.98,
-  "rate": 1.98,
+  "daysLogged": 39,
+  "avg7": 1.8,
+  "avg28": 1.94,
+  "rate": 1.94,
   "nextCutoff": "01/11/2026",
   "delivery": "03/11/2026",
-  "daysToDelivery": 2,
-  "projected": 8.84,
-  "projectedSkip": 0.92,
+  "daysToDelivery": 1,
+  "projected": 9.66,
+  "projectedSkip": 1.9,
   "flag": "ORDER BY THIS SUNDAY",
-  "suggested": 12,
+  "suggested": 11,
   "oldestBatch": "B2026.10.13",
-  "oldestDays": 16,
+  "oldestDays": 17,
   "activeBatches": 1,
-  "checkDays": 24,
+  "checkDays": 25,
   "missingDays": 14,
-  "lastLog": "29/10/2026",
-  "lastCount": "28/10/2026",
+  "lastLog": "30/10/2026",
+  "lastCount": "30/10/2026",
   "lastCountVar": 0,
   "daily": [
     {
@@ -175,7 +175,11 @@
     },
     {
       "d": "29/10",
-      "kg": 2.6
+      "kg": 3.1
+    },
+    {
+      "d": "30/10",
+      "kg": 0.7
     }
   ],
   "batchList": [
@@ -200,6 +204,6 @@
       "label": "12/08"
     }
   ],
-  "lastOfficeCount": "28/10/2026",
-  "officeCountDays": 1
+  "lastOfficeCount": "30/10/2026",
+  "officeCountDays": 0
 }
