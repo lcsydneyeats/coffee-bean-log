@@ -1,29 +1,29 @@
 {
   "sample": false,
-  "asAt": "06/11/2026",
+  "asAt": "07/11/2026",
   "office": 0.0,
   "floor": 21.6,
   "total": 21.6,
   "minimum": 5,
   "daysLogged": 43,
-  "avg7": 1.92,
-  "avg28": 1.94,
-  "rate": 1.94,
+  "avg7": 2.1,
+  "avg28": 2.01,
+  "rate": 2.01,
   "nextCutoff": "08/11/2026",
   "delivery": "10/11/2026",
   "daysToDelivery": 1,
-  "projected": 19.66,
-  "projectedSkip": 11.88,
+  "projected": 19.59,
+  "projectedSkip": 11.57,
   "flag": "No order needed this Sunday",
   "suggested": null,
   "oldestBatch": "B2026.10.12",
-  "oldestDays": 24,
+  "oldestDays": 25,
   "activeBatches": 2,
   "checkDays": 29,
   "missingDays": 14,
   "lastLog": "06/11/2026",
-  "lastCount": "05/11/2026",
-  "lastCountVar": -1.1,
+  "lastCount": "06/11/2026",
+  "lastCountVar": -0.1,
   "daily": [
     {
       "d": "17/08",
@@ -210,6 +210,6 @@
       "label": "12/10"
     }
   ],
-  "lastOfficeCount": "05/11/2026",
+  "lastOfficeCount": "06/11/2026",
   "officeCountDays": 1
 }
