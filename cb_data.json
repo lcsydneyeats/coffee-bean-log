@@ -2,8 +2,8 @@
   "sample": false,
   "asAt": "09/11/2026",
   "office": 0.0,
-  "floor": 21.6,
-  "total": 21.6,
+  "floor": 21.3,
+  "total": 21.3,
   "minimum": 5,
   "daysLogged": 43,
   "avg7": 2.1,
@@ -12,8 +12,8 @@
   "nextCutoff": "15/11/2026",
   "delivery": "17/11/2026",
   "daysToDelivery": 5,
-  "projected": 11.57,
-  "projectedSkip": 3.54,
+  "projected": 11.27,
+  "projectedSkip": 3.24,
   "flag": "ORDER BY THIS SUNDAY",
   "suggested": 10,
   "oldestBatch": "B2026.10.12",
@@ -22,8 +22,8 @@
   "checkDays": 29,
   "missingDays": 14,
   "lastLog": "06/11/2026",
-  "lastCount": "06/11/2026",
-  "lastCountVar": -0.1,
+  "lastCount": "09/11/2026",
+  "lastCountVar": -0.3,
   "daily": [
     {
       "d": "17/08",
@@ -210,6 +210,6 @@
       "label": "12/10"
     }
   ],
-  "lastOfficeCount": "06/11/2026",
-  "officeCountDays": 3
+  "lastOfficeCount": "09/11/2026",
+  "officeCountDays": 0
 }
