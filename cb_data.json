@@ -1,6 +1,6 @@
 {
   "sample": false,
-  "asAt": "14/11/2026",
+  "asAt": "15/11/2026",
   "office": 25.0,
   "floor": 14.6,
   "total": 39.6,
@@ -17,7 +17,7 @@
   "flag": "No order needed this Sunday",
   "suggested": null,
   "oldestBatch": "B2026.10.12",
-  "oldestDays": 32,
+  "oldestDays": 33,
   "activeBatches": 2,
   "checkDays": 32,
   "missingDays": 14,
@@ -223,5 +223,5 @@
     }
   ],
   "lastOfficeCount": "09/11/2026",
-  "officeCountDays": 5
+  "officeCountDays": 6
 }
